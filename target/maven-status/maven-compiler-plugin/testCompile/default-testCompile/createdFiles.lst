@@ -1,0 +1,9 @@
+pageobjects\HomePage.class
+stepDefinitions\MultipleContactsCreationTest.class
+stepDefinitions\MultipleDealsMapObjStepdef.class
+pageobjects\LoginPage.class
+util\TestUtil.class
+pageobjects\ContactsPage.class
+pageobjects\DealsPage.class
+runner\TestRunner.class
+stepDefinitions\LoginTest.class
