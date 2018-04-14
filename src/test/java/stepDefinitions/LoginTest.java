@@ -17,8 +17,8 @@ import cucumber.api.java.en.Then;
 import util.TestUtil;
 
 public class LoginTest
-{ // creating the reference of login page here and initialising the ref var in the method
-  // if we initialise at global level only then it is initialised for 1st time and lost, thus do as above.	
+{ 
+	
 	LoginPage lp; 
 	HomePage hp;
 	Scenario scenario;
@@ -94,15 +94,4 @@ public class LoginTest
 	}
 	
 }
-
-// In Junit
-
-//  Assert.asserEquals(message,expected,actual)
-//  Assrt.assertTrue(message,boolean condition)
-
-//In TestNg
-
-//   Assert.assertEquals(actual,expected,msg);
-//   Assert.assertTrue(boolean condition, String message)
-
 
