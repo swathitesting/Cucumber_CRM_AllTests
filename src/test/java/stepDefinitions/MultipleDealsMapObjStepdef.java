@@ -9,7 +9,6 @@ import org.junit.Assert;
 import cucumber.api.DataTable;
 import cucumber.api.java.en.Then;
 import util.TestUtil;
-/*****For parameterising test cases --> datatables with asMaps() object***/
 
 public class MultipleDealsMapObjStepdef 
 {
