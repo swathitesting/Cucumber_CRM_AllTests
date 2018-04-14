@@ -51,7 +51,6 @@ public class DealsPage extends TestUtil
 	 public void enterDealDetails_AsMaps(DataTable table2)
 	{
 	 List<Map<String,String>> dataList2 = table2.asMaps(String.class,String.class);
-	// iterating over the table2 ie dataList2
 	 for(int i=0;i<dataList2.size();i++)
 	{
 	  title.sendKeys(dataList2.get(i).get("tit"));
