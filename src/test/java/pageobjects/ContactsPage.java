@@ -47,9 +47,7 @@ public class ContactsPage extends TestUtil
 	 lastname.sendKeys(lname);
      position.sendKeys(pos);
      saveBtn.click();
-     //shortWait();
      driver.navigate().refresh();
-    // shortWait();
      
  }
  
@@ -58,8 +56,6 @@ public class ContactsPage extends TestUtil
 	 lastname.sendKeys(lname);
      position.sendKeys(pos);
      saveBtn.click();
-     //shortWait();
-    // waitForElementToLoad(contactsTabLink);
    
  }
  
