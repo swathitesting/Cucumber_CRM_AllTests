@@ -18,9 +18,7 @@ import cucumber.api.junit.Cucumber;
                  tags = {"@login2,@contacts,@deals,@negative1"},
                  monochrome = true,
                  dryRun = false)
-                 
-
-public class TestRunner2 
+public class TestRunner2
 {
   @BeforeClass
 	public static void setup() 

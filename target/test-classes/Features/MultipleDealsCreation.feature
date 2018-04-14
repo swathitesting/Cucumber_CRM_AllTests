@@ -15,7 +15,6 @@ Feature: Creation of deals in CRM
     |  tit     |  amt   | probabile   |   comm    |
     |testdeal1 |  8000  |    50       |    10     |
     |testdeal2 |  9000  |    30       |    20     |
-    |testdeal3|  1000  |    40       |    30     |
     
   
   

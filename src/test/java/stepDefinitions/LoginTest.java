@@ -53,7 +53,8 @@ public class LoginTest
 	public void login_page_is_displayed() 
 	{
      String title = lp.verifyLoginPageTitle(); //actual
-     Assert.assertEquals("Free CRM in the cloud software boosts sales",title);
+     Assert.assertTrue("Expected and Actual Title not matching", title.contains("Free CRM"));
+     //Assert.assertEquals("Free CRM in the cloud software boosts sales",title);
 	}
 
 	@Then("^User enters username as \"([^\"]*)\" and password as \"([^\"]*)\"$")
@@ -80,8 +81,9 @@ public class LoginTest
 	{
 		hp = new HomePage();
         String homeTitle = hp.verifyHomePageTitle(); //actual
-        System.out.println("Home pg title: "+homeTitle);
+        System.out.println("Actual Home pg title: "+homeTitle);
         Assert.assertEquals("Home page title is not matching","CRMPRO",homeTitle);
+       // Assert.assertTrue("Expected homepage title and actual title are not matching",homeTitle.contains("CRMPRO ") );
 	}
 	
 	@Then("^Validate logotext after login$")
