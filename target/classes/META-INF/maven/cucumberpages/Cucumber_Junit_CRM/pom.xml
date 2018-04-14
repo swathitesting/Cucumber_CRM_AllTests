@@ -21,7 +21,7 @@
                 <version>2.19</version>
                 <configuration>
                     <includes>
-                       <exclude>**/*TestRunner.java</exclude>                   
+                       <exclude>**/*TestRunner1.java</exclude>                   
                     </includes>
                 </configuration>
             </plugin>

@@ -20,7 +20,7 @@ import cucumber.api.junit.Cucumber;
                  dryRun = false)
                  
 
-public class TestRunner 
+public class TestRunner2 
 {
   @BeforeClass
 	public static void setup() 

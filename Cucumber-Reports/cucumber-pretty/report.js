@@ -87,7 +87,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 3827328279,
+  "duration": 8344949201,
   "status": "passed"
 });
 formatter.scenario({
@@ -145,14 +145,14 @@ formatter.match({
   "location": "LoginTest.User_navigates_to_the_Free_CRM_url_on_the_opened_browser()"
 });
 formatter.result({
-  "duration": 2883864647,
+  "duration": 8247142611,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTest.login_page_is_displayed()"
 });
 formatter.result({
-  "duration": 12133557,
+  "duration": 11716276,
   "status": "passed"
 });
 formatter.match({
@@ -169,14 +169,14 @@ formatter.match({
   "location": "LoginTest.user_enters_username_as_and_password_as(String,String)"
 });
 formatter.result({
-  "duration": 242225700,
+  "duration": 316393230,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTest.User_click_on_login_button()"
 });
 formatter.result({
-  "duration": 5649225940,
+  "duration": 9178438125,
   "status": "passed"
 });
 formatter.match({
@@ -189,23 +189,23 @@ formatter.match({
   "location": "LoginTest.login_should_be(String)"
 });
 formatter.result({
-  "duration": 91124558,
+  "duration": 348423978,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTest.validate_home_page_title()"
 });
 formatter.result({
-  "duration": 7447046,
+  "duration": 6286085,
   "status": "passed"
 });
 formatter.write("Finished Scenario...");
 formatter.after({
-  "duration": 931505435,
+  "duration": 2703759534,
   "status": "passed"
 });
 formatter.before({
-  "duration": 3616760419,
+  "duration": 6027395010,
   "status": "passed"
 });
 formatter.scenario({
@@ -263,14 +263,14 @@ formatter.match({
   "location": "LoginTest.User_navigates_to_the_Free_CRM_url_on_the_opened_browser()"
 });
 formatter.result({
-  "duration": 2575146304,
+  "duration": 6056759515,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTest.login_page_is_displayed()"
 });
 formatter.result({
-  "duration": 38883447,
+  "duration": 12767585,
   "status": "passed"
 });
 formatter.match({
@@ -287,14 +287,14 @@ formatter.match({
   "location": "LoginTest.user_enters_username_as_and_password_as(String,String)"
 });
 formatter.result({
-  "duration": 214873356,
+  "duration": 234888734,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTest.User_click_on_login_button()"
 });
 formatter.result({
-  "duration": 5055107887,
+  "duration": 6584644339,
   "status": "passed"
 });
 formatter.match({
@@ -307,19 +307,19 @@ formatter.match({
   "location": "LoginTest.login_should_be(String)"
 });
 formatter.result({
-  "duration": 81614577,
+  "duration": 84434846,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTest.validate_home_page_title()"
 });
 formatter.result({
-  "duration": 5421658,
+  "duration": 4101123,
   "status": "passed"
 });
 formatter.write("Finished Scenario...");
 formatter.after({
-  "duration": 1132502726,
+  "duration": 1234943347,
   "status": "passed"
 });
 formatter.uri("MultipleContactsFeature.feature");
@@ -437,7 +437,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 3574640277,
+  "duration": 4662910005,
   "status": "passed"
 });
 formatter.scenario({
@@ -520,14 +520,14 @@ formatter.match({
   "location": "LoginTest.User_navigates_to_the_Free_CRM_url_on_the_opened_browser()"
 });
 formatter.result({
-  "duration": 2670161212,
+  "duration": 3839284343,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTest.login_page_is_displayed()"
 });
 formatter.result({
-  "duration": 36636191,
+  "duration": 9698995,
   "status": "passed"
 });
 formatter.match({
@@ -544,35 +544,35 @@ formatter.match({
   "location": "LoginTest.user_enters_username_as_and_password_as(String,String)"
 });
 formatter.result({
-  "duration": 236118814,
+  "duration": 253409070,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTest.User_click_on_login_button()"
 });
 formatter.result({
-  "duration": 2598771711,
+  "duration": 5727874327,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTest.validate_home_page_title()"
 });
 formatter.result({
-  "duration": 10289502,
+  "duration": 7117659,
   "status": "passed"
 });
 formatter.match({
   "location": "MultipleContactsCreationTest.user_moves_to_new_contacts_page()"
 });
 formatter.result({
-  "duration": 406009093,
+  "duration": 661702111,
   "status": "passed"
 });
 formatter.match({
   "location": "MultipleContactsCreationTest.verify_contacts_page_is_displayed()"
 });
 formatter.result({
-  "duration": 758178354,
+  "duration": 1308633437,
   "status": "passed"
 });
 formatter.match({
@@ -593,14 +593,14 @@ formatter.match({
   "location": "MultipleContactsCreationTest.user_enters_and_and(String,String,String)"
 });
 formatter.result({
-  "duration": 1500933974,
+  "duration": 1788402166,
   "status": "passed"
 });
 formatter.match({
   "location": "MultipleContactsCreationTest.user_clicks_on_contacts_tab()"
 });
 formatter.result({
-  "duration": 3130193177,
+  "duration": 3131635739,
   "status": "passed"
 });
 formatter.match({
@@ -613,16 +613,16 @@ formatter.match({
   "location": "MultipleContactsCreationTest.verify_the_new_created_contact_under_contacts(String)"
 });
 formatter.result({
-  "duration": 46264359,
+  "duration": 48739881,
   "status": "passed"
 });
 formatter.write("Finished Scenario...");
 formatter.after({
-  "duration": 1299960576,
+  "duration": 1215634530,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4946216061,
+  "duration": 5200435371,
   "status": "passed"
 });
 formatter.scenario({
@@ -705,14 +705,14 @@ formatter.match({
   "location": "LoginTest.User_navigates_to_the_Free_CRM_url_on_the_opened_browser()"
 });
 formatter.result({
-  "duration": 2493858129,
+  "duration": 3421290599,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTest.login_page_is_displayed()"
 });
 formatter.result({
-  "duration": 37665739,
+  "duration": 9594035,
   "status": "passed"
 });
 formatter.match({
@@ -729,35 +729,35 @@ formatter.match({
   "location": "LoginTest.user_enters_username_as_and_password_as(String,String)"
 });
 formatter.result({
-  "duration": 221347176,
+  "duration": 220439655,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTest.User_click_on_login_button()"
 });
 formatter.result({
-  "duration": 2163033312,
+  "duration": 5476660460,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTest.validate_home_page_title()"
 });
 formatter.result({
-  "duration": 9774088,
+  "duration": 10203315,
   "status": "passed"
 });
 formatter.match({
   "location": "MultipleContactsCreationTest.user_moves_to_new_contacts_page()"
 });
 formatter.result({
-  "duration": 391538680,
+  "duration": 266128014,
   "status": "passed"
 });
 formatter.match({
   "location": "MultipleContactsCreationTest.verify_contacts_page_is_displayed()"
 });
 formatter.result({
-  "duration": 868553275,
+  "duration": 885547849,
   "status": "passed"
 });
 formatter.match({
@@ -778,14 +778,14 @@ formatter.match({
   "location": "MultipleContactsCreationTest.user_enters_and_and(String,String,String)"
 });
 formatter.result({
-  "duration": 1392738895,
+  "duration": 1392222628,
   "status": "passed"
 });
 formatter.match({
   "location": "MultipleContactsCreationTest.user_clicks_on_contacts_tab()"
 });
 formatter.result({
-  "duration": 3128242456,
+  "duration": 3130178245,
   "status": "passed"
 });
 formatter.match({
@@ -798,261 +798,12 @@ formatter.match({
   "location": "MultipleContactsCreationTest.verify_the_new_created_contact_under_contacts(String)"
 });
 formatter.result({
-  "duration": 42600143,
+  "duration": 39153954,
   "status": "passed"
 });
 formatter.write("Finished Scenario...");
 formatter.after({
-  "duration": 883578780,
-  "status": "passed"
-});
-formatter.scenarioOutline({
-  "line": 22,
-  "name": "Validate error message for not entering FirstName",
-  "description": "",
-  "id": "creting-contacts-feature;validate-error-message-for-not-entering-firstname",
-  "type": "scenario_outline",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 21,
-      "name": "@negative1"
-    }
-  ]
-});
-formatter.step({
-  "line": 23,
-  "name": "User navigates to the Free CRM url on the opened browser",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 24,
-  "name": "Login page is displayed",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 25,
-  "name": "User enters username as \"\u003cuserName\u003e\" and password as \"\u003cpassword\u003e\"",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 26,
-  "name": "User click on login button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 27,
-  "name": "Validate home page title",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 28,
-  "name": "User switches and moves to new contacts page",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 29,
-  "name": "Verify contacts page is displayed",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 30,
-  "name": "User enters only \"\u003clastName\u003e\" and \"\u003cposition\u003e\"",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 31,
-  "name": "User should get error message to enter firstname",
-  "keyword": "Then "
-});
-formatter.examples({
-  "line": 33,
-  "name": "",
-  "description": "",
-  "id": "creting-contacts-feature;validate-error-message-for-not-entering-firstname;",
-  "rows": [
-    {
-      "cells": [
-        "userName",
-        "password",
-        "lastName",
-        "position"
-      ],
-      "line": 34,
-      "id": "creting-contacts-feature;validate-error-message-for-not-entering-firstname;;1"
-    },
-    {
-      "cells": [
-        "swathi123testing",
-        "testing123",
-        "Sam",
-        "TechEngineer"
-      ],
-      "line": 35,
-      "id": "creting-contacts-feature;validate-error-message-for-not-entering-firstname;;2"
-    }
-  ],
-  "keyword": "Examples"
-});
-formatter.before({
-  "duration": 4685429491,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 35,
-  "name": "Validate error message for not entering FirstName",
-  "description": "",
-  "id": "creting-contacts-feature;validate-error-message-for-not-entering-firstname;;2",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 21,
-      "name": "@negative1"
-    }
-  ]
-});
-formatter.step({
-  "line": 23,
-  "name": "User navigates to the Free CRM url on the opened browser",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 24,
-  "name": "Login page is displayed",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 25,
-  "name": "User enters username as \"swathi123testing\" and password as \"testing123\"",
-  "matchedColumns": [
-    0,
-    1
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 26,
-  "name": "User click on login button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 27,
-  "name": "Validate home page title",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 28,
-  "name": "User switches and moves to new contacts page",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 29,
-  "name": "Verify contacts page is displayed",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 30,
-  "name": "User enters only \"Sam\" and \"TechEngineer\"",
-  "matchedColumns": [
-    2,
-    3
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 31,
-  "name": "User should get error message to enter firstname",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "LoginTest.User_navigates_to_the_Free_CRM_url_on_the_opened_browser()"
-});
-formatter.result({
-  "duration": 2207774897,
-  "status": "passed"
-});
-formatter.match({
-  "location": "LoginTest.login_page_is_displayed()"
-});
-formatter.result({
-  "duration": 5929391,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "swathi123testing",
-      "offset": 25
-    },
-    {
-      "val": "testing123",
-      "offset": 60
-    }
-  ],
-  "location": "LoginTest.user_enters_username_as_and_password_as(String,String)"
-});
-formatter.result({
-  "duration": 228460995,
-  "status": "passed"
-});
-formatter.match({
-  "location": "LoginTest.User_click_on_login_button()"
-});
-formatter.result({
-  "duration": 4570795580,
-  "status": "passed"
-});
-formatter.match({
-  "location": "LoginTest.validate_home_page_title()"
-});
-formatter.result({
-  "duration": 5306031,
-  "status": "passed"
-});
-formatter.match({
-  "location": "MultipleContactsCreationTest.user_moves_to_new_contacts_page()"
-});
-formatter.result({
-  "duration": 413581580,
-  "status": "passed"
-});
-formatter.match({
-  "location": "MultipleContactsCreationTest.verify_contacts_page_is_displayed()"
-});
-formatter.result({
-  "duration": 781793521,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Sam",
-      "offset": 18
-    },
-    {
-      "val": "TechEngineer",
-      "offset": 28
-    }
-  ],
-  "location": "MultipleContactsCreationTest.user_enters_only_and(String,String)"
-});
-formatter.result({
-  "duration": 654918533,
-  "status": "passed"
-});
-formatter.match({
-  "location": "MultipleContactsCreationTest.user_gets_error_message_to_enter_firstname()"
-});
-formatter.result({
-  "duration": 34024990,
-  "error_message": "java.lang.AssertionError: Expected Error Message and actual message not matching\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.assertTrue(Assert.java:41)\r\n\tat stepDefinitions.MultipleContactsCreationTest.user_gets_error_message_to_enter_firstname(MultipleContactsCreationTest.java:70)\r\n\tat ✽.Then User should get error message to enter firstname(MultipleContactsFeature.feature:31)\r\n",
-  "status": "failed"
-});
-formatter.write("Finished Scenario...");
-formatter.embedding("image/png", "embedded0.png");
-formatter.after({
-  "duration": 1739575245,
+  "duration": 1092254799,
   "status": "passed"
 });
 formatter.uri("MultipleDealsCreation.feature");
@@ -1064,7 +815,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 3858403720,
+  "duration": 4466015117,
   "status": "passed"
 });
 formatter.scenario({
@@ -1179,61 +930,61 @@ formatter.match({
   "location": "LoginTest.User_navigates_to_the_Free_CRM_url_on_the_opened_browser()"
 });
 formatter.result({
-  "duration": 2515918093,
+  "duration": 3039258060,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTest.login_page_is_displayed()"
 });
 formatter.result({
-  "duration": 29379439,
+  "duration": 7601926,
   "status": "passed"
 });
 formatter.match({
   "location": "MultipleDealsMapObjStepdef.user_enters_username_and_password(DataTable)"
 });
 formatter.result({
-  "duration": 234024733,
+  "duration": 223504830,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTest.User_click_on_login_button()"
 });
 formatter.result({
-  "duration": 3899251967,
+  "duration": 2839737463,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTest.validate_home_page_title()"
 });
 formatter.result({
-  "duration": 8620381,
+  "duration": 6197766,
   "status": "passed"
 });
 formatter.match({
   "location": "MultipleDealsMapObjStepdef.user_switches_and_moves_to_new_deals_page()"
 });
 formatter.result({
-  "duration": 386638837,
+  "duration": 284774217,
   "status": "passed"
 });
 formatter.match({
   "location": "MultipleDealsMapObjStepdef.verify_deals_page_is_displayed()"
 });
 formatter.result({
-  "duration": 983685959,
+  "duration": 1366072206,
   "status": "passed"
 });
 formatter.match({
   "location": "MultipleDealsMapObjStepdef.user_enters_deal_details_validate_created_user(DataTable)"
 });
 formatter.result({
-  "duration": 13348514857,
+  "duration": 14097097043,
   "status": "passed"
 });
 formatter.write("Finished Scenario...");
 formatter.after({
-  "duration": 907488347,
+  "duration": 1027622424,
   "status": "passed"
 });
 });
