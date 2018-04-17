@@ -16,6 +16,11 @@ import util.TestUtil;
 
 public class LoginPage extends TestUtil
 {
+<<<<<<< HEAD
+=======
+ 
+
+>>>>>>> 68b1ef44028813a0a6845cab34ecb1318e816d5f
 	@FindBy(name="username")
 	public WebElement userName;
 	

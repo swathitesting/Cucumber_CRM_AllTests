@@ -48,7 +48,6 @@ public class ContactsPage extends TestUtil
      position.sendKeys(pos);
      saveBtn.click();
      driver.navigate().refresh();
-    // shortWait();
      
  }
  
