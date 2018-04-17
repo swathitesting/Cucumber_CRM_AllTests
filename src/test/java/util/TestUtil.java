@@ -99,6 +99,5 @@ public class TestUtil
 
 
 
-// we can also make step defs file extends TestUtil and remove static for
-//   open browser,close browser, navigate url methods	    
+	    
 }

@@ -72,7 +72,6 @@ public class HomePage extends TestUtil
    {
   	  System.out.println("CREATED CONTACT :"+fname);
   	  WebElement contact = driver.findElement(By.xpath("//td/a[contains(text(),'"+fname+"')]"));
-  	  //waitForElementToLoad(contact);
   	  boolean res = contact.isDisplayed();
   	  System.out.println("is contact present :"+res);
   	  return res;

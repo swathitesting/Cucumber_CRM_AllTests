@@ -16,8 +16,6 @@ import util.TestUtil;
 
 public class LoginPage extends TestUtil
 {
-	// WebElement username and argument for enterUserNamePassword(uname,passwd) 
-	// should be different
 	@FindBy(name="username")
 	public WebElement userName;
 	
@@ -97,7 +95,3 @@ public class LoginPage extends TestUtil
 
 	}
 }
-//by naveen in pom fw.
-//test cases should be seperate and independent of each other
-// before each test case lauc the browser, login into appl, execute the test and close browser
-// this way browser dont get exhausted if we excute 100 testcases and appln will not crash.

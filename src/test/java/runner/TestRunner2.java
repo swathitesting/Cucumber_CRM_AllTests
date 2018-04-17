@@ -12,20 +12,20 @@ import cucumber.api.junit.Cucumber;
 @RunWith(Cucumber.class)
 @CucumberOptions(glue="stepDefinitions",
                  features="src/test/resources/Features/",
-                 plugin = {"pretty","html:Cucumber-Reports/cucumber-pretty",
-                                    "json:Cucumber-Reports/cucumber-json/cucumberJsonReport",
+                 plugin = {"pretty","html:target/cucumber-pretty",
+                                    "json:target/cucumber.json",
                   	                "com.cucumber.listener.ExtentCucumberFormatter:"},
-                 tags = {"@login2,@contacts,@deals,@negative1"},
+                 tags = {"@negative1"},
                  monochrome = true,
                  dryRun = false)
-public class TestRunner2
+
+public class TestRunner2 
 {
-  @BeforeClass
+	@BeforeClass
 	public static void setup() 
 	 {
-		String reportFilePath = "Cucumber-Reports"+File.separator+"extentreport.html";
+		String reportFilePath = "target"+File.separator+"extentreport.html";
 	    System.out.println("FilePath:"+reportFilePath);
 	    ExtentCucumberFormatter.initiateExtentCucumberFormatter(new File(reportFilePath));
 	 }
-}	
-	
+}
