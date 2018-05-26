@@ -16,11 +16,7 @@ import util.TestUtil;
 
 public class LoginPage extends TestUtil
 {
-<<<<<<< HEAD
-=======
- 
 
->>>>>>> 68b1ef44028813a0a6845cab34ecb1318e816d5f
 	@FindBy(name="username")
 	public WebElement userName;
 	
@@ -97,6 +93,10 @@ public class LoginPage extends TestUtil
 	 List<Map<String,String>> dataList1 = table1.asMaps(String.class,String.class);
 	 userName.sendKeys(dataList1.get(0).get("username"));
 	 password.sendKeys(dataList1.get(0).get("password"));
+
+	}
+
+	public void send(){
 
 	}
 }

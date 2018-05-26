@@ -51,10 +51,6 @@ public class DealsPage extends TestUtil
 	 public void enterDealDetails_AsMaps(DataTable table2)
 	{
 	 List<Map<String,String>> dataList2 = table2.asMaps(String.class,String.class);
-<<<<<<< HEAD
-
-=======
->>>>>>> 68b1ef44028813a0a6845cab34ecb1318e816d5f
 	 for(int i=0;i<dataList2.size();i++)
 	{
 	  title.sendKeys(dataList2.get(i).get("tit"));
